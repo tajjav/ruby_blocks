@@ -1,5 +1,7 @@
 def benchmark
   # Your benchmarking code goes here.
+  yield
+
 end
  
 # Be careful, pasting this into IRB will take a long time to print.
